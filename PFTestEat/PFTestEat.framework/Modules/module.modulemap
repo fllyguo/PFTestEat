@@ -1,0 +1,6 @@
+framework module PFTestEat {
+  umbrella header "PFTestEat.h"
+
+  export *
+  module * { export * }
+}
